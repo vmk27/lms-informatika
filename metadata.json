@@ -1,0 +1,6 @@
+{
+  "name": "Sinaura SMA — LMS & Monitoring Real-Time",
+  "description": "Aplikasi Learning Management System (LMS) SMA modern dengan monitoring durasi baca materi real-time, manajemen jadwal, tugas, kuis, buku nilai transparan, dan ekspor laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
